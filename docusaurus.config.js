@@ -9,11 +9,11 @@ const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   url: 'https://lzx411559669.github.io',
-  baseUrl: '/',
+  baseUrl: '/website/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  projectName: 'website.git',
+  projectName: 'website',
   organizationName: 'lzx411559669',
   trailingSlash: false,
 
